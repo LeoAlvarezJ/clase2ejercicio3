@@ -1,4 +1,4 @@
-let dato = document.getElementById("dato2document");
+let dato = document.getElementById("dato");
 let btnEnv = document.getElementById("enviar");
 
 btnEnv.addEventListener("click", () => {
